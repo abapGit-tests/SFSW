@@ -4,7 +4,6 @@
   <asx:values>
    <HEADER>
     <SWITCH_ID>ZABAPGIT_UNIT_TEST</SWITCH_ID>
-    <VERSION>A</VERSION>
    </HEADER>
    <NAME32>test</NAME32>
   </asx:values>
