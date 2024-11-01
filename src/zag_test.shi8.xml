@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SHI8" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SHI8>
+    <SFW_ASS_ID>ZAG_TEST</SFW_ASS_ID>
+    <SWITCH_ID>ZABAPGIT_UNIT_TEST</SWITCH_ID>
+    <TREE_ID>A5EDD93865C61266E10000000A11407E</TREE_ID>
+    <NODE_ID>58D5D93834C60736E10000000A11407E</NODE_ID>
+    <REACTION>D</REACTION>
+   </SHI8>
+  </asx:values>
+ </asx:abap>
+</abapGit>
